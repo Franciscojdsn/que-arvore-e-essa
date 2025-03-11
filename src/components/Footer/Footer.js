@@ -7,8 +7,10 @@ export default function Footer () {
             <div className="container-footer">
                 <div>
                     <h6>&copy; Desde 2025 </h6>
-                    <p>Desenvolvido por: Francisco João </p>
-                    <p>Franciscojdsn <BiLogoGithub /></p>
+                    <p>Developed by: <span>Francisco João</span> </p>
+                    <a href="https://github.com/Franciscojdsn" ><p className="click">Franciscojdsn <BiLogoGithub /></p></a>
+                        
+                    
                 </div>
             </div>
         </>
